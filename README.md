@@ -9,9 +9,9 @@ Keras is popular and well-regarded high-level deep learning API. It’s built ri
 
 Label Description
 
-0 ----- T-shirt/top
-1 ----- Trouser
-2 ----- Pullover
+0 ----- T-shirt/top/
+1 ----- Trouser/
+2 ----- Pullover/
 3 ----- Dress
 4 ----- Coat
 5 ----- Sandal
