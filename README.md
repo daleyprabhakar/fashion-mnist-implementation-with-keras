@@ -24,7 +24,7 @@ Dataset of 60,000 28x28 grayscale images of 10 fashion categories, along with a 
 
 ### Importing Libraries
 <p align="center">
-  <img src="data/1.PNG"  width=965 height=189>
+  <img src="data/1.png"  width=965 height=189>
 </p>
 
 ### loading data
